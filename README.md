@@ -43,5 +43,5 @@ The goal of this dashboard is to:
 ## 🔗 Publish on Tableau Public (Optional)
 
 - https://public.tableau.com/views/HRDashboard_17534402071080/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-This project is licensed under the MIT License.
+
 
